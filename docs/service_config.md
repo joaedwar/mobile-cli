@@ -1,7 +1,7 @@
 ## Service Configuration
 
 ### Overview
-the Service Config stores information about a mobile service and is backed by a secret. This information is then used to populate your mobile client's config.
+The Service Config stores information about a mobile service and is backed by a secret. This information is then used to populate your mobile client's config.
 
 This information could be anything but often is made up of values such as the URL of the service and perhaps some headers and configuration particular to that service.
 
